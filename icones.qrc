@@ -1,0 +1,36 @@
+<RCC>
+  <qresource prefix="buttons">
+    <file>images/button/user.png</file>
+    <file>images/button/Home.png</file>
+    <file>images/button/Abolt.png</file>
+    <file>images/button/AI.png</file>
+    <file>images/button/exit.png</file>
+    <file>images/button/Delete.png</file>
+    <file>images/button/Excel.png</file>
+    <file>images/button/Information.png</file>
+    <file>images/button/Insert.png</file>
+    <file>images/button/Menu.png</file>
+    <file>images/button/Print.png</file>
+    <file>images/button/Producer.png</file>
+    <file>images/button/Save-Insert.png</file>
+    <file>images/button/Save-Update.png</file>
+    <file>images/button/search.png</file>
+    <file>images/button/Solo.png</file>
+    <file>images/button/Start.png</file>
+    <file>images/button/Update.png</file>
+  </qresource>
+  <qresource prefix="soon">
+    <file>images/soon/GuiaFertil-01.png</file>
+  </qresource>
+  <qresource prefix="Contacts">
+    <file>images/contacts/email.png</file>
+    <file>images/contacts/instagram.png</file>
+    <file>images/contacts/linkedin.png</file>
+    <file>images/contacts/whats.png</file>
+    <file>images/contacts/youtube.png</file>
+  </qresource>
+  <qresource prefix="login">
+    <file>images/login/password.png</file>
+    <file>images/login/user.png</file>
+  </qresource>
+</RCC>
