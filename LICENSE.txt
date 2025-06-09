@@ -1,0 +1,17 @@
+Copyright (c) [2025] [Dário da Silva Melo]
+
+Todos os direitos reservados.
+
+Este software e todos os arquivos associados são propriedade intelectual de Dário da Silva Melo, protegido pelas leis de direitos autorais e tratados internacionais aplicáveis.
+
+Você **não está autorizado a**:
+- Usar este software para qualquer finalidade sem permissão por escrito;
+- Copiar, modificar, distribuir, sublicenciar ou criar obras derivadas;
+- Fazer engenharia reversa, descompilar ou desmontar o código-fonte ou binário.
+
+Qualquer uso não autorizado deste software constitui violação de direitos autorais e estará sujeito às penalidades previstas na legislação vigente.
+
+Se você deseja obter uma licença de uso, entre em contato com:
+dariosilvamelo@gmail.com ou pelo telefone +55 34 9 9199 8303
+
+Este software é fornecido “no estado em que se encontra”, sem garantias de qualquer tipo, expressas ou implícitas, incluindo, sem limitação, garantias de comercialização, adequação a um propósito específico ou não violação.

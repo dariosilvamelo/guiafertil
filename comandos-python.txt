@@ -1,0 +1,28 @@
+Gerar o arquivo Icones
+
+pyside6-rcc icones.qrc -o icones_rc.py
+
+====================================================================
+
+Gerar o arquivo da Interface Grafica
+
+pyside6-uic login_win.ui -o login_ui.py
+pyside6-uic guia_fertil.ui -o guia_fertil_ui.py
+pyside6-uic general_consultation_win -o general_consultation_ui.py
+pyside6-uic bean_technology_win.ui -o bean_technology_ui.py
+pyside6-uic limestone_plaster_soy_win.ui -o limestone_plaster_soy_ui.py
+pyside6-uic npk_wheat_win.ui -o npk_wheat_win.py
+pyside6-uic predict_productivity_win.ui -o predict_productivity_win.py
+pyside6-uic succession_planting_win.ui -o succession_planting_win.py
+
+====================================================================
+
+Gerar o arquivo executavel
+
+pyinstaller.exe --onefile --windowed --ico=icone.ico guia_fertil.py
+
+pyinstaller --onefile --windowed --ico=icone.ico `
+>>   --copy-metadata scikeras `
+>>   --copy-metadata keras `
+>>   --copy-metadata tensorflow `
+>>   guia_fertil.py
